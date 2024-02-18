@@ -13,6 +13,7 @@ Tarea 1 Compiladores
 ## Instructions
 The program works on a loop upon starting, the user can then input any string and the automaton will determine if it's accepted or not.
 The user can input as many strings as they like and the automaton will check if the string corresponds to a multiple of 3 in binary (base 2)
+This code uses the automata-lib library
 
 ## Convention for Empty String
 'e' is used as a convention for epsilon in this program.
